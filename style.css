@@ -62,3 +62,7 @@ button{
 .footer{
     text-align: center;
 }
+.nav-item{
+    margin-left: 40px;
+    font-size: 20px;
+}
